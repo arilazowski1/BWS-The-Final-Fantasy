@@ -164,9 +164,7 @@
         <li>WR</li>
         <li>TE</li>
         <li>FLEX (RB/WR/TE)</li>
-        <li>FLEX (RB/WR)</li>
-        <li>D/ST</li>
-        <li>K</li>
+        <li>SUPERFLEX (RB/WR/TE/QB)</li>
     </ul>
     
     <p>18 Bench (Expanded by 5 between the keague draft and start of regular season)</p>
