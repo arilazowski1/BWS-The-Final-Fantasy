@@ -211,14 +211,14 @@
     
     <h4 bind:this={oneTwoFive}>1.2.5 Veto/Trade Process</h4>
     <div class="subBlock">
-        <p>A total of 7 veto votes are required to veto a trade. Vetoes are only appropriate in instances of collusion or an egregious mismatch of value (i.e. CMC for a backup kicker). Not liking a trade does not warrant a veto.</p>
+        <p>A total of 6 veto votes are required to veto a trade(not including the two people involved in the trade). Vetoes are only appropriate in instances of collusion or an egregious mismatch of value (i.e. CMC for a backup kicker). Not liking a trade does not warrant a veto.</p>
     </div>
     
     
     
     <h3 bind:this={oneThree}>1.3 Waiver Wire</h3>
     
-    <p>FAAB Waiver wire system. Each team will begin the season with $100. $0 bids are allowed. Bids will process Thursdays and Sundays at 9AM EST.</p>
+    <p>FAAB Waiver wire system. Each team will begin the season with $100. $0 bids are allowed.</p>
 
     <p>FAAB budgets will reset each season in January.</p>
     
@@ -229,7 +229,7 @@
     <p>The draft order each year will be a linear draft in reverse order of the previous year’s regular season standings.</p>
 
     <h3 bind:this={twoTwo}>2.2 Rookie Drafts</h3>
-    <p>Rokkie drafts will consist of 3 round of drafting, with 5 minutes alotted for each pick. To make room for the incoming players, benches will be expanded by (5) spots. These spots will be removed in mid-August, at which point you will need to have cut the necessary players.</p>
+    <p>Rookie drafts will consist of 3 round of drafting, with 5 minutes alotted for each pick. To make room for the incoming players, benches will be expanded by (5) spots. These spots will be removed in mid-August, at which point you will need to have cut the necessary players.</p>
     <p>Any spots not filled during the draft, can be filled immediately afterwards from the waiver wire.</p>
     
     <h3 bind:this={twoThree}>2.3 Draft Day Trades</h3>
@@ -243,7 +243,7 @@
     <h2 class="sectionHeading" bind:this={four}>Section 4 Postseason</h2>
     
     <h3 bind:this={fourOne}>4.1 Playoffs</h3>
-    <p>At the end of the season 6 teams will make the playoffs. The first round of playoffs will commence in week 15. Each team that wins their division and the 4 wild card teams that finish with the best records, will receive a playoff berth. The 2 teams that win their division will receive a bye week in the first round of the playoffs. Each playoff matchup will only last one week and the winner will advance. Week 18 will not be used.</p>
+    <p>Every year, the League will host playoffs which will take place from Weeks 14-17. The top 4 teams with the best regular season records will compete for the championship in the upper bracket (no bye week). Teams will be ranked from 1st to 10th based on their regular season record. In the event of a tie, refer to section 4.2. Playoffs will take place week 14 and 15 and the championship will take place week 16 and 17.</p>
     
     <h3 bind:this={fourTwo}>4.2 Seeding Tiebreakers</h3>
     <p>If two teams finish with the same record the tiebreakers will go as followed:</p>
@@ -251,7 +251,6 @@
     <ol>
         <li>Points For</li>
         <li>Head 2 Head Record</li>
-        <li>Division Record</li>
         <li>Total Points Against</li>
         <li>Coin Flip</li>
         <li>Duel to the death</li>
