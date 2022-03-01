@@ -187,7 +187,7 @@
 
     <h3 class="subSectionHeading" bind:this={oneTwo}>1.2 Trading</h3>
     
-    <p>Trading of players and draft picks (up to 3 drafts away) are allowed. Trades will process immediately and will be reversed if vetoed or under investigation for collusion. Tradable assets include players, draft picks, and FAAB $.</p>
+    <p>Trade Approval: Trades will be approved and executed as soon as both parties agree. There is no trade veto or review period. The commissioner will not veto trades unless collusion is suspected. If other Managers suspect collusion, they can raise to the commissioner who will investigate and act accordingly.</p>
     
     <h4 bind:this={oneTwoOne}>1.2.1 Trade Collusion</h4>
     <div class="subBlock">
