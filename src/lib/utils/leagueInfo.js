@@ -1,18 +1,16 @@
 /*   STEP 1   */
-export const leagueID = "your_league_id"; // your league ID
-export const leagueName = "your_league_name"; // your league name
+export const leagueID = "784472780157632512"; // your league ID
+export const leagueName = "BWS: The Final Fantasy"; // your league name
 export const dues = 100; // (optional) used in template constitution page
 export const dynasty = true; // true for dynasty leagues, false for redraft and keeper
 export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>BWS: The Final Fantasy: A Guide to Live By</p>
+  <p>League Bylaws Est. May 2020</p>
+  <p>The purpose of BWS is to gather a group of like-minded fantasy football players to enjoy and appreciate America’s, nay, the World’s greatest form of athleticism: Football. We will come together and experience the highs and lows along with your favorite players through Fantasy Football in a dynasty format… kinda. And no, I’m not talking about the pussy European “futbal”, I’m talking about the motha fucking National Football League.. This is the league to end all leagues and is an invite-only league via BLIP, BASWIS and BAZZO (the “Commissioners”). Participation in the League requires all owners of the teams (the “Manager” or collectively, the “Managers”) to read and adhere to all the rules and regulations of the League (the “Bylaws”) as outlined below.</p>
+  
 `;
 
 /*   STEP 3   */
