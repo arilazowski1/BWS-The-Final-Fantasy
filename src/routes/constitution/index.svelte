@@ -286,7 +286,8 @@
         <li>Most Points: {dues*0.5}$</li>
     </ul>
     <p>In the event that a manager was fined due to late payment, their extra fee will be added to the winner's payout. Similarly, if new managers come into the league and the payout is smaller, the difference will come out of the winner's prize.</p>
-    
+    <p>It is also important to note that every season, 10% of the total pot ($ from each manager) will go into the rolling pot to be paid out to the first Manager to win 3 seasons. Does not have to be consecutive, just needs to be 3 seasons total. Once a Manager wins 3 total seasons, the pot is paid out to said Manager and a new pot begins and all win counters reset to zero. The league can also vote on restarting the league with a new startup draft. In order for the league to restart, at least 7 members must agree.</p>
+	
     <h3 bind:this={sevenThree}>7.3 Raising Dues</h3>
     <p>A ⅔ majority vote is required in order to raise league dues. In the event that a manager is no longer financially comfortable with the buyin, finding a co-manager to split the cost is reccomended.</p>
 
