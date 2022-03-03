@@ -100,7 +100,7 @@
 </style>
 
 <div class="constitution">
-    <h1 class="noUnderscore">BWS: THE FINAL FANTASY BLAWS</h1>
+    <h1 class="noUnderscore">BWS: THE FINAL FANTASY BYLAWS</h1>
     
     <h2 class="noUnderscore">TABLE OF CONTENTS</h2>
     
