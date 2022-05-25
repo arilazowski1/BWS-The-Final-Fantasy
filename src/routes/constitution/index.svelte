@@ -244,7 +244,7 @@
     <h2 class="sectionHeading" bind:this={four}>Section 4 Postseason</h2>
     
     <h3 bind:this={fourOne}>4.1 Playoffs</h3>
-    <p>Every year, the League will host playoffs which will take place from Weeks 14-17. The top 4 teams with the best regular season records will compete for the championship in the upper bracket (no bye week). Teams will be ranked from 1st to 10th based on their regular season record. In the event of a tie, refer to section 4.2. Playoffs will take place week 14 and 15 and the championship will take place week 16 and 17.</p>
+    <p>Every year, the League will host playoffs which will take place from Weeks 15-17. The top 4 teams with the best regular season records will compete for the championship in the upper bracket. The first round of playoffs will be one week in which the first place team can choose there matchup out of 2-4. While this first week playoff matchup occurs, 5th and 6th place will play eachother. The second round of playoffs will be two weeks for the finals matchup. However, the third place matchup will occur over a weekly matchup. The winner of the 5th/6th place matchup will play the lowest seed out of the losers in the 1-4 matchup. The loser of the 5th/6th place matchup will play the higher seeded loser in the 1-4 matchup. The following week, the winners of their respective matchups will play for third place. The bottom four teams will compete in The Poon Derby(1 week first round, 2 week second round).</p>
     
     <h3 bind:this={fourTwo}>4.2 Seeding Tiebreakers</h3>
     <p>If two teams finish with the same record the tiebreakers will go as followed:</p>
