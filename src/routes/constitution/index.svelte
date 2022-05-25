@@ -153,7 +153,7 @@
     
     <h3 class="subSectionHeading" bind:this={oneOne}>1.1 Positional Breakdown</h3>
     
-    <p>18 Total Players</p>
+    <p>23 Total Players</p>
     
     <p class="underscore">Starters</p>
     <ul>
@@ -161,13 +161,14 @@
         <li>RB</li>
         <li>RB</li>
         <li>WR</li>
+  	<li>WR</li>  
         <li>WR</li>
         <li>TE</li>
         <li>FLEX (RB/WR/TE)</li>
         <li>SUPERFLEX (RB/WR/TE/QB)</li>
     </ul>
     
-    <p>8 Bench Spots</p>
+    <p>14 Bench Spots</p>
 
     <p>2 IR Spots (Player must be labeled as IR, Out, or Covid in the Sleeper App)</p>
     
@@ -226,7 +227,7 @@
     <h2 class="sectionHeading" bind:this={two}>Section 2 Drafting</h2>
     
     <h3 bind:this={twoOne}>2.1 Draft Order</h3>
-    <p>The draft order each year will be a linear draft in reverse order of the previous year’s regular season standings.</p>
+    <p>The draft style each year will be a snake draft. The order is determined based off of outcomes in both the winner and losers bracket of playoffs. The loser of each playoff matchup will receive the higher pick over the winner. This applies to all matchups except for when the 7th/8th position matchup occurs. In that matchup, the winner will receive the better pick.</p>
 
     <h3 bind:this={twoTwo}>2.2 Rookie Drafts</h3>
     <p>Rookie drafts will consist of 3 round of drafting, with 5 minutes alotted for each pick. To make room for the incoming players, benches will be expanded by (5) spots. These spots will be removed in mid-August, at which point you will need to have cut the necessary players.</p>
